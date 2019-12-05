@@ -73,12 +73,18 @@
   },
 
   "gallery": {
-    "blocks": ["product-summary.shelf"]
+    "blocks": [
+      "product-summary.shelf"
+    ]
   },
 
   "not-found":{},
 
-  "product-summary.shelf":{},
+  "product-summary.shelf":{
+    "children":[
+      "product-summary-sku-selector"
+    ]
+  },
   
   "filter-navigator.v3":{},
 

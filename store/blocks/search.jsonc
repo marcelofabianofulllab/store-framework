@@ -86,6 +86,8 @@
     ]
   },
   
+  "product-summary-sku-selector":{},
+  
   "filter-navigator.v3":{},
 
   "search-fetch-more":{}

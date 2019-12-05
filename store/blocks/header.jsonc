@@ -49,6 +49,10 @@
 
     "header-spacer":{},
 
+    "search-bar":{},
+
+    "minicart":{},
+    
     "rich-text#header":{
         "props": {
             "text": "**Free Shipping on orders over $50**",

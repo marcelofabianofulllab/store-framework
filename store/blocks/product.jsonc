@@ -76,7 +76,7 @@
     "props":{
       "imageHeight": 80,
       "initialSelection": "empty",
-      "showVariationsLabels": "true",
+      "showValueNameForImageVariation": "true",
       "showVariationsErrorMessage": "true"
     }
   },

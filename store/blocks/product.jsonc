@@ -74,7 +74,7 @@
 
   "sku-selector":{
     "props":{
-      "imageHeight": "desktop",
+      "imageHeight": 80,
       "initialSelection": "empty",
       "showVariationsLabels": "true",
       "showVariationsErrorMessage": "true"

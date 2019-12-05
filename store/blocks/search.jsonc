@@ -78,6 +78,8 @@
 
   "not-found":{},
 
+  "product-summary.shelf":{},
+  
   "filter-navigator.v3":{},
 
   "search-fetch-more":{}
